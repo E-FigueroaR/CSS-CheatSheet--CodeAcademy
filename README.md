@@ -1,4 +1,5 @@
 README
 
-CSS CheatSheet for CodeAcademy
-Languages used: html, css
+#CSS CheatSheet for CodeAcademy#
+
+##Languages used: html, css##
